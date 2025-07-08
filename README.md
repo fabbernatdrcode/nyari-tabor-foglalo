@@ -1,4 +1,4 @@
-# **A projekt 2 részből áll: webes és mobilos (Android) alkalmazás
+# **A projekt 2 részből áll: webes és mobilos (Android) alkalmazás**
 Egyelőre csak weben érhető el, de dolgozom az Android megoldáson is
 
 # 1. rész
